@@ -1,5 +1,5 @@
 # Widget-Of-The-Day
-This is a Flutter Challenge inspired by Widget Of The Week(Flutter Team). I challenge myself to learn 10 new widgets and practice them everyday.
+This is a Flutter Challenge inspired by Widget Of The Week(Flutter Team). I challenge myself to learn 5 new widgets and practice them everyday.
 
 # How It Works
 Everyday I create a new folder which is named by the particular day example <b>17-Sept-21</b>. Inside each day contains. <br>
