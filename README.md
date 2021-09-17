@@ -8,3 +8,6 @@ This is a text file where it gives a description of the day and the list of widg
 
 2. <b> Today Folder </b><br>
 This is a flutter folder which contains boilerplate for flutter apps  whereby in <b>main.dart</b> shows the actual code of the widgets learned. <br>
+
+# Sharing
+so, I will be tweeting everyday about the widgets that I've learned. Don't miss out follow me now [@Luqman Tuke](https://twitter.com/tuke2911)
