@@ -1,0 +1,12 @@
+Today is 17-Sep-2021 and here is the list of widget I learned and practiced.
+
+      - AbsorbPointer
+      - AlertDialog
+      - Align
+      - AnimatedAlign
+      - AnimatedDefaultTextStyle
+      - AnimatedListState
+      - AnimatedModalBarrier
+      - AnimatedOpacity
+      - AnimatedPhysicalModel
+      - AnimatedPositioned
