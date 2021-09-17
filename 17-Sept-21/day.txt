@@ -8,5 +8,5 @@ Today is 17-Sep-2021 and here is the list of widget I learned and practiced.
    - A widget that aligns its child within itself and optionally sizes itself based on the child's size using x and y works best
 4. AnimatedAlign
    - Animated version of Align which automatically transitions the child's position over a given duration whenever the given alignment changes.
-5. AnimatedDefaultTextStyle
-   - A general-purpose widget for building animations. AnimatedBuilder is useful for more complex widgets that wish to include an animation as part of a larger build function.
+5. AnimatedBuilder
+   - A general-purpose widget for building animations. AnimatedBuilder is useful for more complex widgets that wish to include an animation as part of a larger build function. To use AnimatedBuilder, simply construct the widget and pass it a builder function.
