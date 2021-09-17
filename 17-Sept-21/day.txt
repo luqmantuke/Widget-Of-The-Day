@@ -1,12 +1,12 @@
 Today is 17-Sep-2021 and here is the list of widget I learned and practiced.
 
-      - AbsorbPointer
-      - AlertDialog
-      - Align
-      - AnimatedAlign
-      - AnimatedDefaultTextStyle
-      - AnimatedListState
-      - AnimatedModalBarrier
-      - AnimatedOpacity
-      - AnimatedPhysicalModel
-      - AnimatedPositioned
+1. AbsorbPointer
+   - A widget that disables clicking of widgets like buttons.
+2. AlertDialog
+   - A widget that creates alert to inform the user
+3. Align
+   - A widget that aligns its child within itself and optionally sizes itself based on the child's size using x and y works best
+4. AnimatedAlign
+   - Animated version of Align which automatically transitions the child's position over a given duration whenever the given alignment changes.
+5. AnimatedDefaultTextStyle
+   - A general-purpose widget for building animations. AnimatedBuilder is useful for more complex widgets that wish to include an animation as part of a larger build function.
