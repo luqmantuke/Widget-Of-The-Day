@@ -1,0 +1,16 @@
+Today is 18-Sep-2021 and here is the list of widget I learned and practiced.
+
+1. AnimatedContainer
+   - This is an animated version of Container that gradually changes its values over a period of time. For example, if you want to animate container size and height the AnimatedContainer will automatically animate between the old and new values of properties when they change using the provided curve and duration.
+
+2. AnimatedCrossFade
+   - A widget that cross-fades between two given children and animates itself between their sizes. For example, you have two widgets which are display a Text(selected ? "Hello" : "bye") you can animate the text making it fade on each other using AnimatedCrossFade.
+
+3. AnimatedDefaultTextStyle
+   - Animated version of DefaultTextStyle which automatically transitions the default text style (the text style to apply to descendant Text widgets without explicit style) over a given duration whenever the given style changes. For example, if you want to animate fontSize and FontFamily once clicked can be used.
+
+4. AnimatedOpasity
+   - Animated version of Opacity which automatically transitions the child's opacity over a given duration whenever the given opacity changes. This is so useful when you need to set opacity=0(not seen) until user selects certain widget(example a button).
+
+5. AnimatedPositioned
+   - Animated version of Positioned which automatically transitions the child's position over a given duration whenever the given position changes. Works the same as Positioned widget whereby it's wrapped in a Stack but, if state changes it updates automatically.
