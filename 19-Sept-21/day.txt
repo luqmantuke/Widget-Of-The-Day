@@ -1,0 +1,16 @@
+Today is 18-Sep-2021 and here is the list of widget I learned and practiced.
+
+1. AnimatedSize
+   - Animated widget that automatically transitions its size over a given duration whenever the given child's size changes. For example, a flutter logo of size 100 once clicked animates and changes to 200.
+
+2. AppBar 
+   - Well, we all came across this widget or used apps with this widgets often. App bars are typically used in the Scaffold.appBar property, which places the app bar as a fixed-height widget at the top of the screen. Different properties such as leading,title and actions can be used. Quick Tip(use centerTitle=true to center your title.).
+
+3. AnimatedDefaultTextStyle
+   - A widget that attempts to size the child to a specific aspect ratio.For example, a 16:9 width:height aspect ratio would have a value of 16.0/9.0. If the maximum width is infinite, the initial width is determined by applying the aspect ratio to the maximum height.
+
+4. Autocomplete
+   - A widget for helping the user make a selection by entering some text and choosing from among a list of options. For example, if you av a grocery app and you want users to type groceries you can use this widget to autocomplete common groceries such as Banana.
+
+5. AssetBundle
+   - A collection of resources used by the application. Asset bundles contain resources, such as images and strings, that can be used by an application. Access to these resources is asynchronous so that they can be transparently loaded over a network (e.g., from a NetworkAssetBundle) or from the local file system without blocking the application's user interface.
