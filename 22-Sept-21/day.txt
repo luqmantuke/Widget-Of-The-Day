@@ -1,0 +1,14 @@
+Today is 22-Sept-2021 and here is the list of widget I learned and practiced.
+
+1. ConstrainedBox
+   - A widget that imposes additional constraints on its child. For example, if you wanted child to have a minimum height of 50.0 logical pixels, you could use const BoxConstraints(minHeight: 50.0) as the constraints.
+
+2. Container 
+   - A convenience widget that combines common painting, positioning, and sizing widgets.
+ 
+
+3. CustomPaint
+   -A widget that provides a canvas on which to draw during the paint phase. When asked to paint, CustomPaint first asks its painter to paint on the current canvas, then it paints its child, and then, after painting its child, it asks its foregroundPainter to paint. The coordinate system of the canvas matches the coordinate system of the CustomPaint object. The painters are expected to paint within a rectangle starting at the origin and encompassing a region of the given size. (If the painters paint outside those bounds, there might be insufficient memory allocated to rasterize the painting commands and the resulting behavior is undefined.) To enforce painting within those bounds, consider wrapping this CustomPaint with a ClipRect widget.
+
+
+
