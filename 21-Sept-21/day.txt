@@ -1,0 +1,17 @@
+Today is 21-Sep-2021 and here is the list of widget I learned and practiced.
+
+1. Clip
+   - A material design chip. Chips are compact elements that represent an attribute, text, entity, or action. Supplying a non-null onDeleted callback will cause the chip to include a button for deleting the chip.
+
+2. CircularProgressIndicator 
+   - A material design circular progress indicator, which spins to indicate that the application is busy.
+ 
+
+3. ClipOval
+   - A widget that clips its child using an oval. When its a rectangle it becomes an oval and when it is a square it becomes a circle.
+
+4. ClipPath
+   - A widget that clips its child using a path. Calls a callback on a delegate whenever the widget is to be painted. The callback returns a path and the widget prevents the child from painting outside the path.
+
+5. Column
+   - A widget that displays its children in a vertical array. To cause a child to expand to fill the available vertical space, wrap the child in an Expanded widget. The Column widget does not scroll (and in general it is considered an error to have more children in a Column than will fit in the available room). If you have a line of widgets and want them to be able to scroll if there is insufficient room, consider using a ListView.
