@@ -1,0 +1,20 @@
+Today is 23-Sep-2021 and here is the list of widget I learned and practiced.
+
+1. CustomScrollView
+   - A ScrollView that creates custom scroll effects using slivers. A CustomScrollView lets you supply slivers directly to create various scrolling effects, such as lists, grids, and expanding headers. For example, to create a scroll view that contains an expanding app bar followed by a list and a grid, use a list of three slivers: SliverAppBar, SliverList, and SliverGrid.
+
+
+
+2. DataTable 
+   - A material design data table.
+ 
+
+3. DecoratedBox
+   - A widget that paints a Decoration either before or after its child paints. Container insets its child by the widths of the borders; this widget does not. Commonly used with BoxDecoration. The child is not clipped. To clip a child to the shape of a particular ShapeDecoration, consider using a ClipPath widget.
+
+4. DecoratedBoxTransition
+   -Animated version of a DecoratedBox that animates the different properties of it Decoration. Here's an illustration of the DecoratedBoxTransition widget, with it's decoration animated by a CurvedAnimation set to Curves.decelerate:
+
+5. DefaultTextStyle
+   - The text style to apply to descendant Text widgets which don't have an explicit style.
+   
