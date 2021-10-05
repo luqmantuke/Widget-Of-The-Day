@@ -1,0 +1,21 @@
+Today is 05-Oct-2021 and here is the list of widget I learned and practiced.
+
+1. Expanded
+   - A widget that expands a child of a Row, Column, or Flex so that the child fills the available space. Using an Expanded widget makes a child of a Row, Column, or Flex expand to fill the available space along the main axis (e.g., horizontally for a Row or vertically for a Column). If multiple children are expanded, the available space is divided among them according to the flex factor.
+
+
+
+2. ExpansionPanel 
+   - A material expansion panel. It has a header and a body and can be either expanded or collapsed. The body of the panel is only visible when it is expanded. Expansion panels are only intended to be used as children for ExpansionPanelList.
+ 
+
+3. FittedBox
+   - Scales and positions its child within itself according to fit.
+
+
+
+4. FloatingActionButton
+   - A material design floating action button. A floating action button is a circular icon button that hovers over content to promote a primary action in the application. Floating action buttons are most commonly used in the Scaffold.floatingActionButton field
+
+
+   
